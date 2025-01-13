@@ -4,9 +4,9 @@
 📧 kmschandeepa@gmail.com | 🔗 https://www.linkedin.com/in/kmschandeepa/
 ---
 # 🔐 About Me
-I'm a passionate cybersecurity enthusiast and a final-year undergraduate in Computer Science with a specialization in **Cybersecurity**. 
+**I'm a passionate cybersecurity enthusiast and a final-year undergraduate in Computer Science with a specialization in **Cybersecurity**. 
 My mission is to secure digital ecosystems and make the internet a safer place for everyone. 
-I enjoy exploring ethical hacking, vulnerability assessments, and hacking boxes in tryhackme & hackthebox
+I enjoy exploring ethical hacking, vulnerability assessments, and hacking boxes in tryhackme & hackthebox**
 ---
 # 💻 Technical Skills
 # Cybersecurity
