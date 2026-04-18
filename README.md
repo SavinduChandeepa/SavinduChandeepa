@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SavinduChandeepa / @savChandeepa
-🎓 **Undergraduate Student** | **Computer Science (Cybersecurity Specialization)**  
-📍 31/6/1 Galawila Road, Homagama  
+🎓 **Undergraduate Student** | **Computer Science (Cybersecurity Specialization)**    
 📧 kmschandeepa@gmail.com | 🔗 https://www.linkedin.com/in/kmschandeepa/
 ---
 # 🔐 About Me
