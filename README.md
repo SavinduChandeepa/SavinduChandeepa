@@ -47,7 +47,7 @@ I enjoy exploring ethical hacking, vulnerability assessments, and hacking boxes 
 - Cryptograph
 ---
 ### 📌 My Goals
-- Complete OSCP Certification by [target date]
+- Complete eJPT Certification by 2027
 - Contribute to open-source security tools
 - Join an internship where I can apply my skills to real-world security challenges
 ---
